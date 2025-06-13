@@ -1,0 +1,7 @@
+streamlit
+matminer
+scikit-learn
+pymatgen
+joblib
+pandas
+numpy
